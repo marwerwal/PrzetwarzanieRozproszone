@@ -1,0 +1,13 @@
+C:\Users\mwalczak\Desktop\Lab1Zad1\Lab1Zad1\bin\Debug\netcoreapp3.1\Lab1Zad1.exe
+C:\Users\mwalczak\Desktop\Lab1Zad1\Lab1Zad1\bin\Debug\netcoreapp3.1\Lab1Zad1.deps.json
+C:\Users\mwalczak\Desktop\Lab1Zad1\Lab1Zad1\bin\Debug\netcoreapp3.1\Lab1Zad1.runtimeconfig.json
+C:\Users\mwalczak\Desktop\Lab1Zad1\Lab1Zad1\bin\Debug\netcoreapp3.1\Lab1Zad1.runtimeconfig.dev.json
+C:\Users\mwalczak\Desktop\Lab1Zad1\Lab1Zad1\bin\Debug\netcoreapp3.1\Lab1Zad1.dll
+C:\Users\mwalczak\Desktop\Lab1Zad1\Lab1Zad1\bin\Debug\netcoreapp3.1\Lab1Zad1.pdb
+C:\Users\mwalczak\Desktop\Lab1Zad1\Lab1Zad1\obj\Debug\netcoreapp3.1\Lab1Zad1.csprojAssemblyReference.cache
+C:\Users\mwalczak\Desktop\Lab1Zad1\Lab1Zad1\obj\Debug\netcoreapp3.1\Lab1Zad1.AssemblyInfoInputs.cache
+C:\Users\mwalczak\Desktop\Lab1Zad1\Lab1Zad1\obj\Debug\netcoreapp3.1\Lab1Zad1.AssemblyInfo.cs
+C:\Users\mwalczak\Desktop\Lab1Zad1\Lab1Zad1\obj\Debug\netcoreapp3.1\Lab1Zad1.csproj.CoreCompileInputs.cache
+C:\Users\mwalczak\Desktop\Lab1Zad1\Lab1Zad1\obj\Debug\netcoreapp3.1\Lab1Zad1.dll
+C:\Users\mwalczak\Desktop\Lab1Zad1\Lab1Zad1\obj\Debug\netcoreapp3.1\Lab1Zad1.pdb
+C:\Users\mwalczak\Desktop\Lab1Zad1\Lab1Zad1\obj\Debug\netcoreapp3.1\Lab1Zad1.genruntimeconfig.cache
