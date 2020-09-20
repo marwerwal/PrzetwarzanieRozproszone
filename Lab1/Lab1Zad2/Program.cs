@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 // using System.Text;
@@ -83,7 +83,7 @@ namespace Lab1Zad1
                 }
             }
 
-            List<User> listaUzytkownikow = new List<User>();
+            List<User> userList = new List<User>();
 
 
             for (int j = 0; j < 20; j++)
@@ -93,13 +93,13 @@ namespace Lab1Zad1
                 var random = new Random();
                 prefList = Enumerable.Range(0, 200).OrderBy(t => random.Next()).Take(40).ToArray();
 
-                listaUzytkownikow.Add(new User(j, prefList));
+                userList.Add(new User(j, prefList));
 
             }
 
 
 
-            foreach (User user in listaUzytkownikow)
+            foreach (User user in userList)
             {
                 var x = new Thread(() => user.readAllBooks(booksList));
                 x.Start();
